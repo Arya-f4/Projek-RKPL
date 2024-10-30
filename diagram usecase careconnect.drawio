@@ -495,10 +495,10 @@
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-47" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="-110" width="710" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-50" value="Melakukan Login" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
+        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-50" value="Melakukan Authentikasi" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
           <mxGeometry x="275" y="100" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-51" value="Halaman Selamat Datang" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
+        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-51" value="Mengakses Halaman Selamat Datang" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
           <mxGeometry x="265" y="190" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" source="Zlr3_-CGLOSDlMT_74Ff-53" target="Zlr3_-CGLOSDlMT_74Ff-51" edge="1">
