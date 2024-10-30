@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram name="Page-1" id="B0hmuPbm0VEshT8cctYc">
-    <mxGraphModel dx="2436" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,7 +447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ceyb9IBgqmm6Sffj_TD4" name="Page-2">
-    <mxGraphModel dx="464" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,7 +495,7 @@
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-47" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="-110" width="710" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-50" value="Melakukan Authentikasi" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
+        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-50" value="Authentication" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
           <mxGeometry x="275" y="100" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-51" value="Mengakses Halaman Selamat Datang" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
@@ -517,7 +517,7 @@
           <mxGeometry x="260" y="660" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-57" value="Melakukan Registrasi" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
-          <mxGeometry x="510" y="20" width="170" height="50" as="geometry" />
+          <mxGeometry x="80" y="20" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" source="Zlr3_-CGLOSDlMT_74Ff-57" target="Zlr3_-CGLOSDlMT_74Ff-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -528,9 +528,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-60" value="Melihat Artikel" style="ellipse;whiteSpace=wrap;html=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" vertex="1">
-          <mxGeometry x="55" y="50" width="170" height="70" as="geometry" />
+          <mxGeometry x="520" y="70" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.884;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.196;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" source="Zlr3_-CGLOSDlMT_74Ff-51" target="Zlr3_-CGLOSDlMT_74Ff-60" edge="1">
+        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.456;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="Zlr3_-CGLOSDlMT_74Ff-47" source="Zlr3_-CGLOSDlMT_74Ff-51" target="Zlr3_-CGLOSDlMT_74Ff-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="200" as="sourcePoint" />
             <mxPoint x="340" y="150" as="targetPoint" />
