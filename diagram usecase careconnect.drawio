@@ -447,7 +447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ceyb9IBgqmm6Sffj_TD4" name="Page-2">
-    <mxGraphModel dx="1914" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,10 +510,10 @@
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-54" value="Mengakses Fitur Konsultasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zlr3_-CGLOSDlMT_74Ff-47">
           <mxGeometry x="260" y="780" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-55" value="Mengakses Riwayat kesehatan diri / keluarga" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zlr3_-CGLOSDlMT_74Ff-47">
+        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-55" value="Akses Riwayat kesehatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zlr3_-CGLOSDlMT_74Ff-47">
           <mxGeometry x="257.5" y="550" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-56" value="Mendapatkan Pengingat Obat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zlr3_-CGLOSDlMT_74Ff-47">
+        <mxCell id="Zlr3_-CGLOSDlMT_74Ff-56" value="Pengingat Obat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zlr3_-CGLOSDlMT_74Ff-47">
           <mxGeometry x="260" y="660" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zlr3_-CGLOSDlMT_74Ff-57" value="Melakukan Registrasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Zlr3_-CGLOSDlMT_74Ff-47">
